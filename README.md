@@ -66,6 +66,7 @@ The fixture is an original integer-cent seat-proration problem, distinct from Sp
 - `OUTREACH.md`: copy-ready email
 
 Research reviewed October 28, 2026:
+
 - https://withspecific.com/
 - https://withspecific.com/benchmarks/real-swe
 - https://withspecific.com/company-data
